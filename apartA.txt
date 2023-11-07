@@ -1,2 +1,2 @@
-mkdir 1 2 32
+mkdir 1 2 3
 nano Dalos.txt
