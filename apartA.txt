@@ -2,3 +2,4 @@ mkdir 1 2 3
 nano Dalos.txt
 nano proceso.txt
 ps aux > /Dalos/proceso.txt
+cd 2
