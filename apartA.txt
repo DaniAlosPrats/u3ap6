@@ -1,2 +1,3 @@
 mkdir 1 2 3
 nano Dalos.txt
+nano proceso.txt
