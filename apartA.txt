@@ -3,3 +3,4 @@ nano Dalos.txt
 nano proceso.txt
 ps aux > /Dalos/proceso.txt
 cd 2
+cat proceso.txt  | grep "root"
