@@ -8,3 +8,4 @@ awk '{print $2, $9 }' proceso.txt
 grep -n root proceso.txt
 cd 3
 grep -o -i 'Moby' MobyDick.txt | wc -l
+ grep -o -i 'Moby' MobyDick.txt | sort | uniq -c
