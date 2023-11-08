@@ -5,3 +5,4 @@ ps aux > /Dalos/proceso.txt
 cd 2
 cat proceso.txt  | grep "root"
 awk '{print $2, $9 }' proceso.txt
+grep -n root proceso.txt
